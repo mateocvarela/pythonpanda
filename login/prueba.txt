@@ -1,1 +1,19 @@
 prueba git
+
+funciones git
+
+para llevar al git hub
+
+git push -u origin nombredelacarpeta
+
+para crear una rama git
+
+git branch nombre de la rama
+
+para ir a la rama debemos 
+
+git checkout nombre de la rama
+
+para traer desde el github 
+
+git clone rutadegithub
